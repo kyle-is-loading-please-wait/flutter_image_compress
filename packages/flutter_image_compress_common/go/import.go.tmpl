@@ -4,7 +4,7 @@ package main
 
 import (
 	flutter "github.com/go-flutter-desktop/go-flutter"
-	flutter_image_compress "github.com/fluttercandies/flutter_image_compress/go"
+	flutter_image_compress "github.com/kyle-is-loading-please-wait/flutter_image_compress/go"
 )
 
 func init() {

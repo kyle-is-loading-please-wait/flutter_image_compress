@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 Compress image with native Objective-C with faster speed.
                        DESC
-  s.homepage         = 'http://github.com/fluttercandies/flutter_image_compress'
+  s.homepage         = 'http://github.com/kyle-is-loading-please-wait/flutter_image_compress'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'fluttercandies' => 'email@example.com' }
   s.source           = { :path => '.' }

@@ -9,7 +9,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/disintegration/imaging"
+	"github.com/kovidgoyal/imaging"
 	"github.com/nfnt/resize"
 	_ "golang.org/x/image/webp"
 )

@@ -1,10 +1,10 @@
 name: flutter_image_compress_web
 description: The web implementation of `flutter_image_compress`.
 version: 0.1.4+1
-repository: https://github.com/fluttercandies/flutter_image_compress
+repository: https://github.com/kyle-is-loading-please-wait/flutter_image_compress
 
 environment:
-  sdk: '>=2.12.0 <4.0.0'
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=2.5.0"
 
 dependencies:
@@ -44,7 +44,7 @@ flutter:
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
-    # - assets/pica.min.js
+  # - assets/pica.min.js
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   #
